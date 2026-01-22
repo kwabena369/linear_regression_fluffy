@@ -1,4 +1,4 @@
-# Fluffy Linear Regression ✧
+# Fluffy Linear Regression
 linear regression using only NumPy + gradient descent.  
 
 ![Loss History](plots/msl.png)
