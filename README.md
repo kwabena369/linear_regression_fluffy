@@ -44,7 +44,3 @@ y = [3, 4, 2, 5, 6, 7, 8, 9,10, 12]
 
 After training → prediction for x = 11 is around **12.2** (makes sense looking at the pattern)
 
-## Files
-
-- `fluffy_linear_regression.py` → the class + training loop  
-- `plots/msl.png` → loss curve (MSE dropping over iterations)
